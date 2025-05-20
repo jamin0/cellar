@@ -1,0 +1,17 @@
+{
+  "name": "cellars.me",
+  "version": "1.0.0",
+  "description": "Final project for Techup Run 4",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JT",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.1",
+    "csv-parser": "^3.2.0"
+  }
+}
